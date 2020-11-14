@@ -10,7 +10,7 @@
                   <div class="row">
                      <div class="col">
                         <center>
-                           <img width="100px" src="img/generaluser.png"/>
+                           <img width="100px" src="img/user1.png"/>
                         </center>
                      </div>
                   </div>
@@ -62,36 +62,40 @@
                         <div class="form-group">
                            <asp:DropDownList class="form-control" ID="DropDownList1" runat="server">
                               <asp:ListItem Text="Select" Value="select" />
-                              <asp:ListItem Text="Andhra Pradesh" Value="Andhra Pradesh" />
-                              <asp:ListItem Text="Arunachal Pradesh" Value="Arunachal Pradesh" />
-                              <asp:ListItem Text="Assam" Value="Assam" />
-                              <asp:ListItem Text="Bihar" Value="Bihar" />
-                              <asp:ListItem Text="Chhattisgarh" Value="Chhattisgarh" />
-                              <asp:ListItem Text="Rajasthan" Value="Rajasthan" />
-                              <asp:ListItem Text="Goa" Value="Goa" />
-                              <asp:ListItem Text="Gujarat" Value="Gujarat" />
-                              <asp:ListItem Text="Haryana" Value="Haryana" />
-                              <asp:ListItem Text="Himachal Pradesh" Value="Himachal Pradesh" />
-                              <asp:ListItem Text="Jammu and Kashmir" Value="Jammu and Kashmir" />
-                              <asp:ListItem Text="Jharkhand" Value="Jharkhand" />
-                              <asp:ListItem Text="Karnataka" Value="Karnataka" />
-                              <asp:ListItem Text="Kerala" Value="Kerala" />
-                              <asp:ListItem Text="Madhya Pradesh" Value="Madhya Pradesh" />
-                              <asp:ListItem Text="Maharashtra" Value="Maharashtra" />
-                              <asp:ListItem Text="Manipur" Value="Manipur" />
-                              <asp:ListItem Text="Meghalaya" Value="Meghalaya" />
-                              <asp:ListItem Text="Mizoram" Value="Mizoram" />
-                              <asp:ListItem Text="Nagaland" Value="Nagaland" />
-                              <asp:ListItem Text="Odisha" Value="Odisha" />
-                              <asp:ListItem Text="Punjab" Value="Punjab" />
-                              <asp:ListItem Text="Rajasthan" Value="Rajasthan" />
-                              <asp:ListItem Text="Sikkim" Value="Sikkim" />
-                              <asp:ListItem Text="Tamil Nadu" Value="Tamil Nadu" />
-                              <asp:ListItem Text="Telangana" Value="Telangana" />
-                              <asp:ListItem Text="Tripura" Value="Tripura" />
-                              <asp:ListItem Text="Uttar Pradesh" Value="Uttar Pradesh" />
-                              <asp:ListItem Text="Uttarakhand" Value="Uttarakhand" />
-                              <asp:ListItem Text="West Bengal" Value="West Bengal" />
+                              <asp:ListItem Text="Aceh" Value="Riau" />
+                              <asp:ListItem Text="Sumatra Utara" Value="Sumatra Utara" />
+                              <asp:ListItem Text="Sumatra Barat" Value="Sumatra Barat" />
+                              <asp:ListItem Text="Riau" Value="Riau" />
+                              <asp:ListItem Text="Jambi" Value="Jambi" />
+                              <asp:ListItem Text="Sumatera Selatan" Value="Sumatera Selatan" />
+                              <asp:ListItem Text="Bengkulu" Value="Bengkulu" />
+                              <asp:ListItem Text="Lampung" Value="Lampung" />
+                              <asp:ListItem Text="Kepulauan Bangka Belitung" Value="Kepulauan Bangka Belitung" />
+                              <asp:ListItem Text="Kepulauan Riau" Value="Kepulauan Riau" />
+                              <asp:ListItem Text="DKI Jakarta" Value="DKI Jakarta" />
+                              <asp:ListItem Text="Jawa Barat" Value="Jawa Barat" />
+                              <asp:ListItem Text="Jawa Tengah" Value="Jawa Tengah" />
+                              <asp:ListItem Text="D.I. Yogyakarta" Value="D.I. Yogyakarta" />
+                              <asp:ListItem Text="Jawa Timur" Value="Jawa Timur" />
+                              <asp:ListItem Text="Banten" Value="Banten" />
+                              <asp:ListItem Text="Bali" Value="Bali" />
+                              <asp:ListItem Text="Nusa Tenggara Barat" Value="Nusa Tenggara Barat" />
+                              <asp:ListItem Text="Nusa Tenggara Timur" Value="Nusa Tenggara Timur" />
+                              <asp:ListItem Text="Kalimantan Barat" Value="Kalimantan Barat" />
+                              <asp:ListItem Text="Kalimantan Tengah" Value="Kalimantan Tengah" />
+                              <asp:ListItem Text="Kalimantan Selatan" Value="Kalimantan Selatan" />
+                              <asp:ListItem Text="Kalimantan Timur" Value="Kalimantan Timur" />
+                              <asp:ListItem Text="Kalimantan Utara" Value="Kalimantan Utara" />
+                              <asp:ListItem Text="Sulawesi Utara" Value="Sulawesi Utara" />
+                              <asp:ListItem Text="Sulawesi Tengah" Value="Sulawesi Tengah" />
+                              <asp:ListItem Text="Sulawesi Selatan" Value="Sulawesi Selatan" />
+                              <asp:ListItem Text="Sulawesi Tenggara" Value="Sulawesi Tenggara" />
+                              <asp:ListItem Text="Gorontalo" Value="Gorontalo" />
+                              <asp:ListItem Text="Sulawesi Barat" Value="Sulawesi Barat" />
+                              <asp:ListItem Text="Maluku" Value="Maluku" />
+                              <asp:ListItem Text="Maluku Utara" Value="Maluku Utarat" />
+                              <asp:ListItem Text="Papua" Value="Papua" />
+                              <asp:ListItem Text="Papua Barat" Value="Papua Barat" />
                            </asp:DropDownList>
                         </div>
                      </div>

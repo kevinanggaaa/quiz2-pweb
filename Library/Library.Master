@@ -11,6 +11,8 @@
     <link href="datatables/css/jquery.dataTables.min.css" rel="stylesheet" />
     <!--fontawesome-->
     <link href="fontawesome/css/all.css" rel="stylesheet" />
+    <!--sweetalert-->
+    <link href="sweetalert/sweetalert2.min.css" rel="stylesheet" />
     <!--index.css-->
     <link href="css/index.css" rel="stylesheet" />
     <!--jquery-->
@@ -19,7 +21,8 @@
     <script src="bootstrap/js/bootstrap.bundle.min.js"></script>
     <!--datatables js-->
     <script src="datatables/js/jquery.dataTables.min.js"></script>
-    
+    <!--sweetalert js-->
+    <script src="sweetalert/sweetalert2.all.min.js"></script>
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
@@ -40,12 +43,6 @@
                     <ul class="navbar-nav mr-auto">
                         <li class="nav-item active">
                             <a class="nav-link" href="homepage.aspx">Home</a>
-                        </li>
-                        <li class="nav-item active">
-                            <a class="nav-link" href="#">About Us</a>
-                        </li>
-                        <li class="nav-item active">
-                            <a class="nav-link" href="#">Terms</a>
                         </li>
                     </ul>
                     <ul class="navbar-nav">
@@ -80,7 +77,7 @@
  
          <!-- Footer -->
         <footer>
-            <div id="footer1" class="container-fluid">
+            <div id="footer1" class="container-fluid fixed-bottom" style="height: 150px;">
                 <div class="row">
                     <div class="col-xs-12 col-sm-12 col-md-12 text-center">
                         <p>
@@ -99,13 +96,6 @@
  
                     </div>
  
-                </div>
-            </div>
-            <div id="footer2" class="container-fluid">
-                <div class="row">
-                    <div class="col-xs-12 col-sm-12 col-md-12 text-center">
-                        <p style="color:whitesmoke">&copy All right Reversed. <a class="footerlinks" href="#" target="_blank">Simple Snippets</a></p>
-                    </div>
                 </div>
             </div>
         </footer>
