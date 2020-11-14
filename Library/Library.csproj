@@ -1890,6 +1890,9 @@
     <Content Include="fontawesome\webfonts\fa-solid-900.woff2" />
     <Content Include="Library.Master" />
     <None Include="packages.config" />
+    <None Include="Properties\PublishProfiles\webprolibrary - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\webprolibrary - ReadOnly - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\webprolibrary - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
