@@ -93,8 +93,6 @@
     <Content Include="img\search-online.png" />
     <Content Include="img\sign-up.png" />
     <Content Include="img\writer.png" />
-    <Content Include="sweetalert\sweetalert2.all.min.js" />
-    <Content Include="sweetalert\sweetalert2.min.css" />
     <Content Include="userlogin.aspx" />
     <Content Include="userprofile.aspx" />
     <Content Include="usersignup.aspx" />
